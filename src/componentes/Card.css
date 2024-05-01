@@ -1,0 +1,17 @@
+.card {
+  width: 40%;
+  height: 320px;
+  border-radius: 20px;
+  background-color: aqua;
+  box-shadow: 2px 2px 5px cornflowerblue;
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 60px;
+}

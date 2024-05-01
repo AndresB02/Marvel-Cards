@@ -1,0 +1,8 @@
+.lenVista {
+  max-width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.lenVista img {
+  max-width: 50%;
+}
